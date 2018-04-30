@@ -1,0 +1,80 @@
+*{
+	list-style: none;
+	-webkit-margin:0;
+	margin:0;
+	padding: 0;
+	text-decoration:none !important;
+}
+#nav{
+	-webkit-padding: 10px;
+	padding: 10px;
+	background-color: #00bb50 !important;
+	text-decoration:none !important;
+}
+#nav>li>a{
+	padding: 10px;
+	font-weight:bold;
+	font-size: 25px !important;
+}
+#nav li a:hover{
+	background-color: #008d3c !important;
+}
+#subnav{
+	float:right;
+	background-color: #00bb50 !important;
+}
+#subnav li {
+	padding: 7px 0;
+}
+#subnav li a{
+	font-weight:normal !important;
+	font-size: 16px !important;
+	padding: 16px 10px;
+}
+.image2{
+width: 250px !important;
+height: 270px !important;
+margin-top: 20px
+}
+.idea_title2{
+width: 250px !important;
+height: 200px !important;
+}
+.idea_discription{
+	display: inline-block;
+	width: 250px !important;
+	padding: 5px 0;
+	font-size: 16px !important;
+	color: #333  !important;
+}
+.info{
+	font-size: 16px !important;
+	text-align: center;
+	padding: 10px 0;
+}
+.homepage{
+	font-size: 14px;
+}
+.login_form2{
+	width: 400px;
+	line-height: 200%;
+	font-size:20px;
+}
+.login_form3{
+	width: 480px;
+	height: 40px;
+	line-height: 200%;
+	font-size:20px;
+	display: inline-block;
+}
+.global_div2{
+	width: 600px !important;
+	margin: 100px 20%;
+}
+
+
+
+
+
+
+

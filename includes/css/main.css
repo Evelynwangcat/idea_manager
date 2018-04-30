@@ -1,0 +1,86 @@
+
+img{
+width:250px;
+/*height:200px;*/
+
+}
+.global_div{
+position: absolute;
+left:10%;
+width:80%
+
+}
+.image{
+float:left;
+margin-left:20px;
+width:300px;
+
+/*height:100px;*/
+
+
+}
+p{font-size:x-small}
+li {display: inline-block;}
+ul{
+	background-color: #00bb50;
+}
+li a { 
+    color: white;
+}
+.mid{margin-left: 10%;}
+.button1{width:13%}
+#first_title{
+
+position: relative;
+top:-20px;
+font-size: 10px;
+
+
+}
+.add_detail{float:right}
+li a:hover {
+    background-color: #111;
+}
+.deleteButton{
+position:relative;
+top:95%;
+left:10%;
+width:80%;
+}
+.col{float:left}
+.login_form{ 
+width: 100%;
+
+}
+
+.container{
+
+    width: 60%;
+}
+#floated{
+    float: left;
+  padding-right:20%
+}
+.container1{
+
+    width: 60%;
+}
+#floated1{
+    float: left;
+  padding-right:20%
+}
+
+.idea_p{
+	padding: 10px 15px 10px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+}
